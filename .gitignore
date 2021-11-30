@@ -10,6 +10,10 @@
 *.o
 *.obj
 
+# Carpetas
+GameJam2021/Content/MetaHumans/Common/
+GameJam2021/Saved/Autosaves/
+
 # Precompiled Headers
 *.gch
 *.pch

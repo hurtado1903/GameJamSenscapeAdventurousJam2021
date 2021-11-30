@@ -43,6 +43,10 @@
 		{
 			"Name": "RigLogic",
 			"Enabled": true
+		},
+		{
+			"Name": "SequencerScripting",
+			"Enabled": true
 		}
 	]
 }
