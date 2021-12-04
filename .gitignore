@@ -13,6 +13,7 @@
 # Carpetas
 GameJam2021/Content/MetaHumans/Common/
 GameJam2021/Saved/Autosaves/
+GameJam2021/Saved/Config/CrashReportClient
 
 # Precompiled Headers
 *.gch
