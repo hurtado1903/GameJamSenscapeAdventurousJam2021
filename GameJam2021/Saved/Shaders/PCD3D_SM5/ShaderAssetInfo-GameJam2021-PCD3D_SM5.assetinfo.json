@@ -1,0 +1,632 @@
+{
+	"AssetInfoVersion": 1,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "3676434BDC62FFC0F194E7846C01EA9919113508",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CE21B809E59889F66B6C39810C16E6D2FD37E319",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "925C0CC2C8424631A2DA6FECA250D0FFCC2C0D85",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A3AE248A6F05AA5BB9DDF24C32A2BFFC45368F79",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E2C58873EE5237CF535FE59E114BCAB3435AC135",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8B55463DC6EBA46E7658781E872CD1A10795C143",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "27E36195FF2A8E5C7EFA35B1A3664D37FBA9F873",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset",
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "931F231FB74937674709FE04BDE3FC7716568737",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7205B25C0B86D378AA900FDA94EE4EE679408D98",
+			"Assets": [
+				"../../Plugins/Runtime/nDisplay/Content/TestPatterns/Animated/M_TPAStrips.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E4C8CCD262C509D3CB7ADE7945CDD6C66F52E4CC",
+			"Assets": [
+				"../../Plugins/Runtime/nDisplay/Content/TestPatterns/Animated/M_TPARadar.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A140612117592B3E64FA315E77E8BC1CC8155A67",
+			"Assets": [
+				"../../Plugins/Runtime/nDisplay/Content/TestPatterns/Animated/M_TPAMirroredChevron.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D540A18E560545CFE881FC196EB7D1E3E13AEF6F",
+			"Assets": [
+				"../../Plugins/Runtime/nDisplay/Content/TestPatterns/Animated/M_TPAGrid.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8D0E4604EA18BD30CCF1C64B51604D9B8C0323F5",
+			"Assets": [
+				"../../Plugins/Runtime/nDisplay/Content/TestPatterns/Animated/M_TPAChevron.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C6C74BDCBDE9F6F8B38C89686078E5C6561AC72C",
+			"Assets": [
+				"../../Plugins/Runtime/nDisplay/Content/TestPatterns/Statics/M_TPSGridCircles.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EB0F6A2DAF5F0CB41FE7529FB2CADF10A5283FD1",
+			"Assets": [
+				"../../Plugins/Runtime/nDisplay/Content/TestPatterns/Statics/M_TPSGrayBars.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "42A3D8314AA162C1DBCF1F0D29F05547662D464D",
+			"Assets": [
+				"../../Plugins/Runtime/nDisplay/Content/TestPatterns/Statics/M_TPSColoredBars.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7F00B59F49C5A170E66264EFD77BC9F12EE4971F",
+			"Assets": [
+				"../../Plugins/Runtime/nDisplay/Content/TestPatterns/Statics/M_TPSCircles.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A10E26655CF1F25EFD1B3AE577A5509A3C22FB53",
+			"Assets": [
+				"../../Plugins/Runtime/nDisplay/Content/Materials/Preview/M_ProjPolicyPreview.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6CDD0D67BE2F0A1AEAFF29AA516B67EADD0D23CB",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6CBFBE45E58007900347554A9A6A66AB5F7D138E",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8360B2E05E6638EAA2E6836157E4086C378527DA",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2A4BE9B1E447C0CC116AB74C5A912C9B2633BF8A",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BFCA2D125816F1033D2AB7A55D3E603373A7CD6F",
+			"Assets": [
+				"../../Plugins/Compositing/Composure/Content/Materials/ReplaceTonemapper/ComposureReplaceTonemapperByTexture.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1DD473CE7B73E5DD070F7B6F4EF83C90F6D41481",
+			"Assets": [
+				"../../Plugins/Compositing/Composure/Content/Materials/ReplaceTonemapper/ComposureReplaceTonemapperComposeBloom.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7A9405C57B1EA9ECAC2815CEC35764CFF19D9F6D",
+			"Assets": [
+				"../../Plugins/Compositing/Composure/Content/Materials/Compositing/M_AlphaScale.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F0FDEECF63EE7D10E8586284A6C30D2807A7D138",
+			"Assets": [
+				"../../Plugins/Compositing/Composure/Content/Materials/ChromaKeying/M_SinglePassDespill.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F0F4C111A335E2D1F522405C7D8D0CA7D1DB7834",
+			"Assets": [
+				"../../Plugins/Compositing/Composure/Content/Materials/ChromaKeying/M_SinglePassChromaKeyer.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D53AA289E35796258D6EC50EE4734E24672FDAC3",
+			"Assets": [
+				"../../Plugins/Compositing/Composure/Content/Materials/Media/M_StaticVideoPlateDebug.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CAF20414F1CE1B21F40AFB71ECC4B19D147EDB70",
+			"Assets": [
+				"../../Plugins/Compositing/Composure/Content/Materials/Media/M_VideoPlateDefault.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3B93EB7196B9145B57E92DE4FA9BD9B79853D643",
+			"Assets": [
+				"../../Plugins/Compositing/Composure/Content/Materials/PassSetup/ComposureSimpleSetupMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9B262B03D469EA668C99B33C7B4757856EF8DBA8",
+			"Assets": [
+				"../../Plugins/Compositing/Composure/Content/Materials/PassSetup/ComposureBeforeTranslucencySetBlack.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "79F11ABB0FE1B8471FF8C84EA3D6941ED3C426E0",
+			"Assets": [
+				"../../Plugins/Experimental/ControlRig/Content/M_Manip.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9FAFB865EB2F4DCD818C434C050E7745BC833365",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "72C09EA796865F08570E7B259CA83CD6A68D18C6",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7A5B02EDC4298A777E9F6B93DB0F3D8697C1F26A",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4FFAF38520D73293207E565918C6B57F7F8E13C9",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AA183A99EA3140216EA834319D300E20373F5E93",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "977FE5A1F4C256A152F6AC18E2E91C6329C24F33",
+			"Assets": [
+				"../../Plugins/Runtime/AR/ARUtilities/Content/Materials/M_DepthColoration.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E8CEC3EA8BF0E46F6DB6FFBADA08B9777D6740A8",
+			"Assets": [
+				"../../Plugins/Runtime/AR/AppleAR/AppleARKit/Content/M_SceneDepthOcclusion.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7E9868C6872A010A702785D70D84950AAE0E0060",
+			"Assets": [
+				"../../Plugins/Runtime/AR/AppleAR/AppleARKit/Content/MI_MatteOcclusionOverlay.uasset",
+				"../../Plugins/Runtime/AR/AppleAR/AppleARKit/Content/M_OcclusionOverlay.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C18B7AC095035F0FFF5ED1F5EDF5CE3E3BDCADE1",
+			"Assets": [
+				"../../Plugins/Runtime/AR/AppleAR/AppleARKit/Content/MI_DepthOcclusionOverlay.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C075D9AF7BA75ECA2C6EB1BAA3C7882D97C12EEE",
+			"Assets": [
+				"../../Plugins/Runtime/AR/ARUtilities/Content/Materials/M_PassthroughCamera.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "69CF0B163DCAB225A0FBC7FAE4CB0343A7A4762D",
+			"Assets": [
+				"../../Plugins/Runtime/AR/ARUtilities/Content/Materials/MI_ScreenSpacePassthroughCameraExternalTexture.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7F37EB3027C0C8F901A7C39948805899A7FE69B7",
+			"Assets": [
+				"../../Plugins/Runtime/AR/ARUtilities/Content/Materials/M_ScreenSpacePassthroughCamera.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A3609E644F6C533B8F9A24D27AB2285E2D39571D",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "509E49BFFE3E8EEE79E306C48262164E7B6F5507",
+			"Assets": [
+				"../../Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset",
+				"../../Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2F552557DE4AFF6B12E794E80F60A4A8BDD09677",
+			"Assets": [
+				"../../Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D28A66D29D245BE0087B82A02821E653B9625DFD",
+			"Assets": [
+				"../../Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E63575823B1855A5BC7AB84D061AC356FBBDAFC1",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "32D281FF7B9F2B531B6A63F9B56F1FAE852490FB",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F00F2F9A3CD07DA7457B6B987ED11B739EA06895",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E9F51EE54132DCE7BFFBA8FE653EF3CE494B7150",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AB2C31709D966AFC311EA77E8CF43C110BEBDFC9",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A62102EDF7922A29CF3165F3274B8B16B91B7432",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EAE9DA31087D494255A0610F70EF6D831D19D10E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7A5E8F202B8EC49330571FE4E974F4C1DC111699",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "56B1B26291F2A93036D693A99C17271296B6D747",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B52277AAE973CAF58A25C79B9C3FC3D151DE33A5",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AD3B1EE8E520055A0DFECE9D37E93134BDCCB50E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7C9019FFC147F76FDC0AD9FDA0892C2F18D56C54",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BC109AED08941F6314C0367E9F3D742092B61A63",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5D5CE78AF765895B0E693106AA943D2E2F24E78A",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8C2D16363FEAEAF816BA059B50740D5E23E95738",
+			"Assets": [
+				"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "925BA9C3A8E3705F4911BC3BD448E2D93A93ACDA",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MetaHumans/Common/Materials/M_BodySkin.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6DBDCC9B53DCC0EB04578D1DC6FF8DE659F025EF",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MetaHumans/Common/Materials/M_fabric_simpler.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "76C2A372C75B95D299F768A47B4115C15B40E551",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MetaHumans/Common/Materials/Shirt/Male/M_m_top_shirt.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A39F04FCC34E854BBB341026EB436577B5DAC62E",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MetaHumans/Common/Materials/M_PeachFuzzMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6C4FBC5810E087A229CA22FCB482F1302F03F0FC",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MetaHumans/Common/Materials/M_hair_v2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9DA623DAD925AA6B9CAABEE2BDFA84C7F8A820A8",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MetaHumans/Common/Materials/MI_Hair_Helmet.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "575914E3F87DB8B721E31642A242323CEA0FCA49",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MetaHumans/Common/Materials/M_Facial_Hair.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D9B14524F0852909E6EF12DA3C8551AE30301EE6",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MetaHumans/Common/Materials/M_jeans_nrm_custom_master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0EBCE4B5B4F494DBCEF2DAC72EFC43B1E3B9C395",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MetaHumans/Common/Materials/Jeans/M_btm_jeans_nrm.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8117E2FB5DEA5A63AF38EA6617BA4E5D4D291786",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MetaHumans/Common/Materials/Flats/M_shs_flats.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E130D532CA34A31CED4DC2B30D8B9B16B6E6B51F",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MetaHumans/Common/Materials/M_Eyelashes_Cards.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "695670D81B0F9AD963C0D536A26E51EBFD27D7D5",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MetaHumans/Common/Face/LookDev/Shared/M_Head_Baked.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "09524532E92F7212B358922FA446765362119CCE",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MetaHumans/Common/Face/Materials/Materials/Baked/M_HeadSynthesized_Baked_LOD2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "667440B5EC83D0B4E2D929540890B38B19515750",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MetaHumans/Common/Face/Materials/Materials/Baked/M_HeadSynthesized_Baked_LOD1.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "64A3066BB736DE3A3BA4CC8DD9DF85BE591EDB81",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MetaHumans/Common/Materials/M_Teeth.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6B27BE3560B8DAF1F169A16EF764347AB61E5020",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MetaHumans/Common/Face/LookDev/Shared/EyeMaterials/M_EyeRefractive.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "02552708C71C301050FFA24A86CA0EA38F5FEEA2",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MetaHumans/Common/Face/LookDev/Shared/EyeMaterials/M_EyeRefractive.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9ED8BF8713602C210809555E1743D14BE38F349C",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MetaHumans/Common/Face/LookDev/Materials/M_lacrimal_fluid.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E6C84FCBAD9DD2306774E41B08D6620C78430826",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MetaHumans/Common/Face/LookDev/Materials/M_EyeOcclusion.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4ACEE02A5E1DB44BCE138031C84BC00D0580E664",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MetaHumans/Common/Face/LookDev/Materials/M_Cartilage.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "040BB8DCB003F495FD9AD7E67786CBEADDF172C5",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "80B1B47576D592BFAEE8EC9ED95AA1192FA0CDB0",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Materiales/M_MeshOutline.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9962EC8AF00C9089CDE9F6FFA21CEE84064C9A50",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "348F36098FFDD6D24EDF8965A2683FEE96553205",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Materiales/M_Props.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9CE51759DE7BB3F915AA40B5B4A67AA8940A86B1",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/006_Cuadro/fancy_picture_frame_01_canvas.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C6D54895B9E1281698413E9BC3833382FE29DC21",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Geometry/Meshes/CubeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8D9FFBC2CC365BED7BB0AED574DE4A19E83F1904",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/003_SillaVerde/M_GreenChair.uasset",
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/011_Comoda/M_Gothic_Instance.uasset",
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/005_Candelabro/M_Chandelier.uasset",
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/009_Cama/GothicBed.uasset",
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/004_MesaCafe/M_CoffeTable.uasset",
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/013_Planta/M_Plant.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1197D0B5E0DC139C4597CD8DDAE05451D38F303D",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MSPresets/Decal_MasterMaterial/Decal_MasterMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "14CE13A45B418615F4C91002F447022392497C95",
+			"Assets": [
+				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "459689E01B7B9DE3773EE6E74623A826F8BC8F2B",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Megascans/3D_Assets/Wooden_Floor_Lamp_vi5hbjgga/M_Emisivo.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2747C7C807FB59DBD0D57534CB927DD6E4106148",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/008_Cuchillo/Default.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A6BA98688B5FC083445992CD16F4B0734855608E",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/002_Auto/Material__296.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "92414604FE88DA6AB6F1A1743362A32C77ACACD6",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/002_Auto/Material__294.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "33C847461F10D219E76C0FEAC814FCA25023EC14",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MSPresets/Foliage_Material/Foliage_Material.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "997B050DCD23918050099793B2EA23303D40A6FA",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MSPresets/Billboard_Material/Billboard_Material.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F0D8FF8450E7022EB70AA07AF70DAEF864FB7584",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Materiales/Luz.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "421AD55E944071FECA37F3DCFE5E047DAB8C31A2",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/013_Planta/M_Plant02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "488237F1952C1C39F9A0696FCA7EA6387E52D571",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Glasses/Materials/M_Lenses.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E41D2E124D991E431A2CD2D16D055F8793DC46FA",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Glasses/Materials/M_Body.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6BB208C1FCA12FC420984CBAD4675446DF129CE1",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Materiales/Fondo.uasset"
+			]
+		}
+	]
+}

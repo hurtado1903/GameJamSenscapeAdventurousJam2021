@@ -1,18 +1,8 @@
 {
 	"Targets": [
 		{
-			"Name": "UnrealHeaderTool",
-			"Path": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source\\Programs\\UnrealHeaderTool\\UnrealHeaderTool.Target.cs",
-			"Type": "Program"
-		},
-		{
-			"Name": "UE4Editor",
-			"Path": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source\\UE4Editor.Target.cs",
-			"Type": "Editor"
-		},
-		{
-			"Name": "UE4Game",
-			"Path": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source\\UE4Game.Target.cs",
+			"Name": "GameJam2021",
+			"Path": "F:\\Documentos\\GitHub\\GameJamSenscapeAdventurousJam2021\\GameJam2021\\Intermediate\\Source\\GameJam2021.Target.cs",
 			"Type": "Game"
 		}
 	]
