@@ -351,6 +351,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A6BA98688B5FC083445992CD16F4B0734855608E",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/002_Auto/Material__296.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "92414604FE88DA6AB6F1A1743362A32C77ACACD6",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/002_Auto/Material__294.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "33C847461F10D219E76C0FEAC814FCA25023EC14",
 			"Assets": [
 				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MSPresets/Foliage_Material/Foliage_Material.uasset"
@@ -375,27 +387,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C6D54895B9E1281698413E9BC3833382FE29DC21",
-			"Assets": [
-				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Geometry/Meshes/CubeMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "A6BA98688B5FC083445992CD16F4B0734855608E",
-			"Assets": [
-				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/002_Auto/Material__296.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "92414604FE88DA6AB6F1A1743362A32C77ACACD6",
-			"Assets": [
-				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/002_Auto/Material__294.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "F0D8FF8450E7022EB70AA07AF70DAEF864FB7584",
 			"Assets": [
 				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Materiales/Luz.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C6D54895B9E1281698413E9BC3833382FE29DC21",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Geometry/Meshes/CubeMaterial.uasset"
 			]
 		},
 		{

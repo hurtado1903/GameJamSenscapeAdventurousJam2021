@@ -1300,6 +1300,7 @@ Windows.Engine:/Script/UnrealEd.CookerSettings:VersionedIntRValues:8=r.MobileHDR
 Windows.Engine:/Script/UnrealEd.CookerSettings:VersionedIntRValues:9=r.UsePreExposure
 Windows.Engine:/Script/Engine.PhysicsSettings:DefaultGravityZ:0=-980.0
 Windows.Engine:/Script/Engine.PhysicsSettings:bEnable2DPhysics:0=false
+Windows.Engine:/Script/Engine.PhysicsSettings:bDisableCCD:0=True
 Windows.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:TargetedRHIs:0=PCD3D_SM5
 Windows.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:MinimumOSVersion:0=MSOS_Vista
 Windows.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:bEnableRayTracing:0=true

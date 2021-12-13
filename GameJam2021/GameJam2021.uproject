@@ -49,19 +49,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "PhysXVehicles",
-			"Enabled": false
-		},
-		{
-			"Name": "RuntimePhysXCooking",
-			"Enabled": false
-		},
-		{
 			"Name": "EnvironmentQueryEditor",
-			"Enabled": false
-		},
-		{
-			"Name": "AISupport",
 			"Enabled": false
 		},
 		{
@@ -128,27 +116,7 @@
 			"Enabled": false
 		},
 		{
-			"Name": "ChaosClothEditor",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosCloth",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosNiagara",
-			"Enabled": false
-		},
-		{
 			"Name": "ChaosEditor",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosSolverPlugin",
-			"Enabled": false
-		},
-		{
-			"Name": "CharacterAI",
 			"Enabled": false
 		},
 		{
@@ -160,10 +128,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "CodeLiteSourceCodeAccess",
-			"Enabled": false
-		},
-		{
 			"Name": "CryptoKeys",
 			"Enabled": false
 		},
@@ -172,22 +136,7 @@
 			"Enabled": false
 		},
 		{
-			"Name": "PostSplashScreen",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"XboxOne"
-			]
-		},
-		{
-			"Name": "DatasmithContent",
-			"Enabled": false
-		},
-		{
 			"Name": "ExampleDeviceProfileSelector",
-			"Enabled": false
-		},
-		{
-			"Name": "FacialAnimation",
 			"Enabled": false
 		},
 		{
@@ -200,10 +149,6 @@
 		},
 		{
 			"Name": "GooglePAD",
-			"Enabled": false
-		},
-		{
-			"Name": "MediaCompositing",
 			"Enabled": false
 		},
 		{
@@ -316,10 +261,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "PerforceSourceControl",
-			"Enabled": false
-		},
-		{
 			"Name": "PlasticSourceControl",
 			"Enabled": false
 		},
@@ -338,14 +279,6 @@
 		},
 		{
 			"Name": "ProceduralMeshComponent",
-			"Enabled": false
-		},
-		{
-			"Name": "PropertyAccessNode",
-			"Enabled": false
-		},
-		{
-			"Name": "PropertyAccessEditor",
 			"Enabled": false
 		},
 		{
@@ -385,12 +318,107 @@
 			"Enabled": false
 		},
 		{
-			"Name": "XCodeSourceCodeAccess",
+			"Name": "XGEController",
 			"Enabled": false
 		},
 		{
-			"Name": "XGEController",
-			"Enabled": false
+			"Name": "ARUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "AssetSearch",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintMaterialTextureNodes",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosCaching",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosVehiclesPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "CodeView",
+			"Enabled": true
+		},
+		{
+			"Name": "Composure",
+			"Enabled": true
+		},
+		{
+			"Name": "CustomizableSequencerTracks",
+			"Enabled": true
+		},
+		{
+			"Name": "DataCharts",
+			"Enabled": true
+		},
+		{
+			"Name": "DataprepEditor",
+			"Enabled": true
+		},
+		{
+			"Name": "DataprepGeometryOperations",
+			"Enabled": true
+		},
+		{
+			"Name": "DisasterRecoveryClient",
+			"Enabled": true
+		},
+		{
+			"Name": "EditorTests",
+			"Enabled": true
+		},
+		{
+			"Name": "FbxAutomationTestBuilder",
+			"Enabled": true
+		},
+		{
+			"Name": "FieldSystemPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "FullBodyIK",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "GeometryCollectionPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "GeometryCacheAbcFile",
+			"Enabled": true
+		},
+		{
+			"Name": "nDisplay",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "NiagaraExtras",
+			"Enabled": true
+		},
+		{
+			"Name": "StaticMeshEditorExtension",
+			"Enabled": true
+		},
+		{
+			"Name": "TextureShare",
+			"Enabled": true
+		},
+		{
+			"Name": "Volumetrics",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
