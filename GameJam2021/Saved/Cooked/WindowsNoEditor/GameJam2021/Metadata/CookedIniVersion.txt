@@ -401,6 +401,7 @@ Windows.Engine:/Script/Engine.Engine:MatineeTrackRedirects:16=(TargetClassName="
 Windows.Engine:/Script/Engine.Engine:MatineeTrackRedirects:17=(TargetClassName="/Script/Engine.CameraActor",OldFieldName="PostProcessSettings.",NewFieldName="CameraComponent.PostProcessSettings.")
 Windows.Engine:/Script/Engine.Engine:ActiveGameNameRedirects:0=(OldGameName="TP_FirstPersonBP",NewGameName="/Script/GameJam2021")
 Windows.Engine:/Script/Engine.Engine:ActiveGameNameRedirects:1=(OldGameName="/Script/TP_FirstPersonBP",NewGameName="/Script/GameJam2021")
+Windows.Engine:/Script/Engine.Engine:SubtitleFontName:0=/Game/MetaHumans/Common/Fonts/RobotoCondensed.RobotoCondensed
 Windows.Engine:CoreUObject.Metadata:MetadataRedirects:0=(OldKey="K2Protected", NewKey="BlueprintProtected")
 Windows.Engine:CoreUObject.Metadata:MetadataRedirects:1=(OldKey="K2UnsafeForConstructionScripts", NewKey="UnsafeDuringActorConstruction")
 Windows.Engine:CoreUObject.Metadata:MetadataRedirects:2=(OldKey="KismetType", NewKey="BlueprintType")
