@@ -188,15 +188,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "7A5B02EDC4298A777E9F6B93DB0F3D8697C1F26A",
-			"Assets": [
-				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "79F11ABB0FE1B8471FF8C84EA3D6941ED3C426E0",
 			"Assets": [
 				"../../Plugins/Experimental/ControlRig/Content/M_Manip.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7A5B02EDC4298A777E9F6B93DB0F3D8697C1F26A",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
 			]
 		},
 		{
@@ -460,66 +460,54 @@
 			]
 		},
 		{
-			"ShaderMapHash": "9962EC8AF00C9089CDE9F6FFA21CEE84064C9A50",
+			"ShaderMapHash": "E9420A6A0572DF13002A920786D5875476DF5A0E",
 			"Assets": [
 				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "348F36098FFDD6D24EDF8965A2683FEE96553205",
+			"ShaderMapHash": "C5815822E5F8951E08C0EFA9219A89761DFDA8F3",
 			"Assets": [
 				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Materiales/M_Props.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "8D893B787145B5C5BA9C5230821F8CAE5F92EE28",
+			"ShaderMapHash": "2438A8A5A563C29F68D43A3944EDFEEA47242FFA",
 			"Assets": [
 				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/4_Parlante/M_Parlante.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "8D9FFBC2CC365BED7BB0AED574DE4A19E83F1904",
+			"ShaderMapHash": "51E77973FE11B4ADECD93ACBF3DEC776611544CB",
 			"Assets": [
-				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/003_SillaVerde/M_GreenChair.uasset",
-				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/011_Comoda/M_Gothic_Instance.uasset",
 				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/005_Candelabro/M_Chandelier.uasset",
-				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/004_MesaCafe/M_CoffeTable.uasset",
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/011_Comoda/M_Gothic_Instance.uasset",
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/003_SillaVerde/M_GreenChair.uasset",
 				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/009_Cama/GothicBed.uasset",
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/004_MesaCafe/M_CoffeTable.uasset",
 				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/013_Planta/M_Plant.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "421AD55E944071FECA37F3DCFE5E047DAB8C31A2",
+			"ShaderMapHash": "3B092FF673F2B4C38C48E8510BF76DF1EDACD789",
 			"Assets": [
 				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/013_Planta/M_Plant02.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "2747C7C807FB59DBD0D57534CB927DD6E4106148",
+			"ShaderMapHash": "1E8A2582C64CB49C106CD4748673CC2A7E555C49",
 			"Assets": [
 				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/008_Cuchillo/Default.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "A6BA98688B5FC083445992CD16F4B0734855608E",
-			"Assets": [
-				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/002_Auto/Material__296.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "92414604FE88DA6AB6F1A1743362A32C77ACACD6",
-			"Assets": [
-				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/002_Auto/Material__294.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "33C847461F10D219E76C0FEAC814FCA25023EC14",
+			"ShaderMapHash": "C70ECEC06082259BF70519E98A562CE706EF28C0",
 			"Assets": [
 				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MSPresets/Foliage_Material/Foliage_Material.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "997B050DCD23918050099793B2EA23303D40A6FA",
+			"ShaderMapHash": "1354BA6F85073A65BB0F0D24B79D24BF518BDF68",
 			"Assets": [
 				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/MSPresets/Billboard_Material/Billboard_Material.uasset"
 			]
@@ -549,15 +537,27 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E41D2E124D991E431A2CD2D16D055F8793DC46FA",
+			"ShaderMapHash": "23C419A4960C0B8BD886B59B50F9110188A570A2",
 			"Assets": [
-				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Glasses/Materials/M_Body.uasset"
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/002_Auto/Material__296.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8EB93F55B7DBF9DA8C6BE4C350005E7815436A78",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Meshes/Assets/002_Auto/Material__294.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "488237F1952C1C39F9A0696FCA7EA6387E52D571",
 			"Assets": [
 				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Glasses/Materials/M_Lenses.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E41D2E124D991E431A2CD2D16D055F8793DC46FA",
+			"Assets": [
+				"F:/Documentos/GitHub/GameJamSenscapeAdventurousJam2021/GameJam2021/Content/Glasses/Materials/M_Body.uasset"
 			]
 		},
 		{
