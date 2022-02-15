@@ -10,6 +10,17 @@
 *.o
 *.obj
 
+# Carpetas
+GameJam2021/Content/MetaHumans/Common/
+GameJam2021/Saved/Autosaves/
+GameJam2021/Saved/Config/CrashReportClient/
+GameJam2021/Intermediate/AssetRegistryCache/
+GameJam2021/Intermediate/Build/
+GameJam2021/Binaries/
+GameJam2021/Saved/Cooked/
+GameJam2021/Saved/EditorCooked/
+GameJam2021/Saved/StagedBuilds/
+
 # Precompiled Headers
 *.gch
 *.pch
@@ -83,3 +94,6 @@ Ws_Automatonophobia/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 Ws_Automatonophobia/Saved/Config/Windows/Engine.ini
 Ws_Automatonophobia/Intermediate/CachedAssetRegistry.bin
 Automatonophobia/Saved/Config/CrashReportClient/UE4CC-Windows-1953BE2C46E83FAB1FDB448CBC409C9E/CrashReportClient.ini
+GameJam2021/Content/MetaHumans/Ed/Face/Ed_FaceMesh.uasset
+GameJam2021/Intermediate/CachedAssetRegistry.bin
+
